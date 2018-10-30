@@ -1,0 +1,1 @@
+# rsyslog with omkafka
