@@ -1,4 +1,4 @@
-FROM ikuai/ubuntu_cst_18.04
+FROM ikuai/ubuntu_18.04_cst
 
 RUN DEBIAN_FRONTEND=noninteractive \
 	&& apt-get update \
